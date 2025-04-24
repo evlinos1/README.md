@@ -9,4 +9,3 @@ Hello! I'm Evin, an <a href="https://linkedin.com/in/evin-linos/">Undergraduate 
   - 
 <h2><a href="https://linkedin.com/in/evin-linos/">📩Contact Me</a></h2>
 
-[<img align="left" alt="Evin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
