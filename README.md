@@ -1,4 +1,6 @@
-<h1>Hello! I'm Evin, an <a href="https://linkedin.com/in/evin-linos/">Undergraduate Biomedical Engineer | Pursuing IT Support Field | Seeking opportunities to apply academic learnings into real-world settings</a>☺</h1>
+<h1>
+Hello! I'm Evin, an <a href="https://linkedin.com/in/evin-linos/">Undergraduate Biomedical Engineer | Pursuing IT Support Field | Seeking opportunities to apply academic learnings into real-world settings</a>
+</h1>
 
 <h2>Information Technology Projects</h2>
 
